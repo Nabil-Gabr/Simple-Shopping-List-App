@@ -1,17 +1,12 @@
-# shopping_list
+## shopping_list
 
-A new Flutter project.
+Excited to share with all of you that, I just Finished a simple Shopping List App task assigned by Internship Pakistan..
 
-## Getting Started
+### Application Screens
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Simple-Shopping-List-App
+<div>
+  <img width="150" alt="addNewItem" src="https://github.com/user-attachments/assets/f1a64926-e013-4378-b588-300a72231206">
+  <img width="150" alt="selectedNewItem" src="https://github.com/user-attachments/assets/7c46eef2-4738-42de-89fd-3340d8b9d302">
+  <img width="150" alt="listItem" src="https://github.com/user-attachments/assets/9da93a3c-301e-42c4-bd8c-b4e9372f2d65">
+  
+</div>
